@@ -3,6 +3,9 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=php,tailwindcss,alpinejs" />
 </p>
+<p align="center">
+    <a href="https://wechat.free.nf/john2">Live Demo</a>
+</p>
 <hr>
 
 WeChat is an open-source PHP application for enabling online audio/video calls and live messaging. Enhance your web applications with real-time communication capabilities.
