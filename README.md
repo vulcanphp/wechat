@@ -18,12 +18,12 @@ WeChat is an open-source PHP application for enabling online audio/video calls a
 1. Clone the repository.
 2. Integrate WeChat into your PHP-based applications effortlessly.
 3. Configure Database credentials from /config/database.php
-4. Configure Your [https://pusher.com/](Pusher) API from /config/pusher.php
+4. Configure Your [Pusher](https://pusher.com/) API from /config/pusher.php
 5. Follow the installation instructions.
 
 ## Installation
 
-You need [https://getcomposer.org/](Composer) installed in your system to perform this application installation.
+You need [Composer](https://getcomposer.org/) installed in your system to perform this application installation.
 
 ```bash
 # install project libraries
@@ -47,4 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Contact Me
 - **WhatsApp:** 01969467747
 - **Email:** freelance.shain@gmail.com
-- **Facebook:** [https://facebook.com/charlie.shain.bd](charlie.shain.bd)
+- **Facebook:** [charlie.shain.bd](https://facebook.com/charlie.shain.bd)
