@@ -12,7 +12,7 @@ $this->layout('master')
 <div x-data='{
     chatlist: <?= json_encode($chatlist) ?>,
     messagePage: 1,
-    hasMoreMessage: <?= !empty($chatlist) ?>,
+    hasMoreMessage: <?= !empty($chatlist) ? 'true' : 'false' ?>,
     loading: false,
     createMessage(){
         if(this.loading) return;
