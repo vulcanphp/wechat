@@ -1,7 +1,7 @@
 <h1 align="center">WeChat</h1>
 <h3 align="center">Open-Source PHP-Based Communication Platform</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,tailwindcss,alpinejs,pusher" />
+    <img src="https://skillicons.dev/icons?i=php,tailwindcss,alpinejs" />
 </p>
 <hr>
 
