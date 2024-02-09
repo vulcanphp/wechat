@@ -23,7 +23,7 @@ WeChat is an open-source PHP application for enabling online audio/video calls a
 
 ## Installation
 
-You need [Composer](https://getcomposer.org/) installed in your system to perform this application installation.
+You need [Composer](https://getcomposer.org/) installed in your system to perform this installation process.
 
 ```bash
 # install project libraries
